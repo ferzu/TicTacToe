@@ -1,6 +1,6 @@
 # TicTacToe
 
-Console program implemented with matrixes, lists and strings.
+Console program implemented with matrixes, lists and strings. Execute tictactoe.py from terminal.
 
 ## Example:
 
