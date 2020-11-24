@@ -7,7 +7,7 @@ Console game implemented with matrixes, lists and strings.
 ## Example:
 
 ´´´
----------
+´´´---------
 |       |
 |       |
 |       |
