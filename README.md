@@ -6,6 +6,7 @@ Console game implemented with matrixes, lists and strings.
 
 ## Example:
 
+´´
 ---------
 |       |
 |       |
@@ -59,4 +60,4 @@ Enter the coordinates: > 2 1
 | O X O |
 | X X X |
 ---------
-X wins
+X wins 
