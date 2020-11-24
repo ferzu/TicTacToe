@@ -6,7 +6,7 @@ Console game implemented with matrixes, lists and strings.
 
 ## Example:
 
-<div>
+<pre>
 ---------
 |       |
 |       |
@@ -61,4 +61,4 @@ Enter the coordinates: > 2 1
 | X X X |
 ---------
 X wins 
-</div>
+</pre>
