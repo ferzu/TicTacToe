@@ -1,6 +1,6 @@
 # TicTacToe
 
-Console game implemented with matrixes, lists and strings.
+Console program implemented with matrixes, lists and strings.
 
 ## Example:
 
